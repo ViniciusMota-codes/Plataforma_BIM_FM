@@ -20,8 +20,7 @@ The BIM-FM platform provides a complete workflow for infrastructure asset manage
 
 📺 **Video 1 – Platform overview (BIM-FM platform demonstration)**  
 *Corresponds to Section 3.4 (Methodology).*  
-[Link to video 1]
-
+Link to video 1: https://drive.google.com/file/d/1UiZxcB-lhE04fDdXeG5Y34GZAnrh1ghp/view?usp=drive_link
 ## End‑to‑end inspection workflow (results – Section 4.3)
 
 The second video demonstrates a complete inspection cycle using the Arquiteto Paulo Casé Bridge case study:
@@ -34,7 +33,7 @@ The second video demonstrates a complete inspection cycle using the Arquiteto Pa
 
 📺 **Video 2 – End‑to‑end inspection (AI analysis + validation + BIM update)**  
 *Corresponds to Section 4.3 (Results and Discussion).*  
-[Link to video 2]
+Link to video 2: https://drive.google.com/file/d/1ATy6INKe1oEavJcPKUSkSyYDofvxmqcc/view?usp=drive_link
 
 ## Requirements & reproducibility
 
